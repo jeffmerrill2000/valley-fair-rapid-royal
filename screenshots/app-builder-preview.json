@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Orchard Drop",
+      "hasCanvas": true,
+      "bodyTextLen": 149,
+      "bodyTextHash": "a31d1f2f745f313fca202042309f35610bff362a91e3cb2a99718b8b0389428a",
+      "bodyTextPrefix": "0 Best 0 PICNIC ROUND Orchard Drop Tap the falling apples before",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Orchard Drop",
+      "hasCanvas": true,
+      "bodyTextLen": 149,
+      "bodyTextHash": "a31d1f2f745f313fca202042309f35610bff362a91e3cb2a99718b8b0389428a",
+      "bodyTextPrefix": "0 Best 0 PICNIC ROUND Orchard Drop Tap the falling apples before",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
