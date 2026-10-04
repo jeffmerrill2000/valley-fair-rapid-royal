@@ -38,3 +38,7 @@ npm run build
 ## License
 
 [MIT](LICENSE). Copyright (c) 2026 Jeff Merrill.
+
+## Android
+
+A full-screen Android app for the same game is in [android](android). Download [android/orchard-drop.apk](android/orchard-drop.apk), allow installs from your browser or Files app, and open it. The app loads [the published game](https://valley-fair-rapid-royal.grok.me/) and needs a network connection.
